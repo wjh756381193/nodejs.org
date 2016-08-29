@@ -3,11 +3,11 @@ title: Node.js Foundation
 layout: foundation.hbs
 ---
 
-# Node.js Foundation
+# Node.js 基金会
 
 The Node.js Foundation's mission is to enable widespread adoption and help accelerate development of Node.js and other related modules through an open governance model that encourages participation, technical contribution, and a framework for long term stewardship by an ecosystem invested in Node.js' success.
 
-## Overview
+## 概览
 
 <iframe class="center" src="//www.slideshare.net/slideshow/embed_code/key/gmABh2vHJx5OcI"
         width="425" height="355"
@@ -46,11 +46,11 @@ The Node.js Foundation's mission is to enable widespread adoption and help accel
 - [2015-11-02](/static/documents/minutes/nodejs-foundation-board-meeting-2015-11-02.pdf)
 - [2016-02-29](/static/documents/minutes/nodejs-foundation-board-meeting-2016-02-29.pdf)
 
-## Contact
+## 联系
 
-For questions about the use of the Node.js&reg; trademark, please send an
-email to <a href="mailto:trademark@nodejs.org?subject=Trademark">trademark@nodejs.org</a>.
+更多关于Node.js&reg; 商标使用的问题, 请发送邮件至
+<a href="mailto:trademark@nodejs.org?subject=Trademark">trademark@nodejs.org</a>.
 
-To subscribe to news about the Node.js Foundation please signup below.
+要想订阅关于Node.js基金会的更多新闻，请在下面注册。
 
 <iframe src="https://go.pardot.com/l/6342/2015-09-15/2sgqpp" width="100%" height="500" type="text/html" frameborder="0" allowTransparency="true" style="border: 0"></iframe>
